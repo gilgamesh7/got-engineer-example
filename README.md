@@ -1,2 +1,2 @@
-# got-engineer-example
-Training repo for using get-engineer to create projects
+# gpt-engineer-example
+Training repo for using gpt-engineer to create projects
